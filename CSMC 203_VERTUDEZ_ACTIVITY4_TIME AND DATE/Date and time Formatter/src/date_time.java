@@ -5,7 +5,7 @@ public class date_time {
 		
 		System.out.println("Month: ");
 		Scanner scanner = new Scanner(System.in);
-		String month = scanner.nextLine();
+		int month = scanner.nextInt();
 		
 		System.out.println("Date: ");
 		int date  = scanner.nextInt();
@@ -13,8 +13,29 @@ public class date_time {
 		System.out.println("Year: ");
 		int year = scanner.nextInt();
 		
-		System.out.println("\n"+ month + " " + date + "," + year);
+		if(month<=12) {
+			
+			System.out.println("\n"+ month + " " + date + "," + year);
+			
+		}else {
+			System.out.println("Invalid Input!");
+			
+			class Date{
+				
+			}if(date>31) {
+					
+				System.out.println("\n"+ month + " " + date + "," + year);
+				
+			}else {
+				
+				System.out.println("Invalid Input!");	
+				}
+			}
+		}
+	
 	}
-}
+	
+
+
 
 
