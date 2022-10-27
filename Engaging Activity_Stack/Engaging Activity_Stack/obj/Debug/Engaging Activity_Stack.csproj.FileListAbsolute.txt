@@ -1,0 +1,6 @@
+C:\Users\Jacqueline Vertudez\Documents\SharpDevelop Projects\Engaging Activity_Stack\Engaging Activity_Stack\obj\Debug\Engaging Activity_Stack.csprojResolveAssemblyReference.cache
+C:\Users\Jacqueline Vertudez\Documents\SharpDevelop Projects\Engaging Activity_Stack\Engaging Activity_Stack\bin\Debug\Engaging Activity_Stack.exe.config
+C:\Users\Jacqueline Vertudez\Documents\SharpDevelop Projects\Engaging Activity_Stack\Engaging Activity_Stack\bin\Debug\Engaging Activity_Stack.exe
+C:\Users\Jacqueline Vertudez\Documents\SharpDevelop Projects\Engaging Activity_Stack\Engaging Activity_Stack\bin\Debug\Engaging Activity_Stack.pdb
+C:\Users\Jacqueline Vertudez\Documents\SharpDevelop Projects\Engaging Activity_Stack\Engaging Activity_Stack\obj\Debug\Engaging Activity_Stack.exe
+C:\Users\Jacqueline Vertudez\Documents\SharpDevelop Projects\Engaging Activity_Stack\Engaging Activity_Stack\obj\Debug\Engaging Activity_Stack.pdb
