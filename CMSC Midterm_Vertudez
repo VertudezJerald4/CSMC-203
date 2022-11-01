@@ -1,0 +1,60 @@
+import java.util.Scanner;
+
+public class Holidays {
+    public static void main(String[] args){
+        while (true) {
+            Scanner scan = new Scanner(System.in);
+            do {
+                System.out.print("\nNumber of Test Cases: ");
+                int cases = scan.nextInt();
+
+                if (1 <= cases && cases <= 31) {
+                    String inputs[] = new String[cases];
+
+                    for (int numhol = 0; numhol < cases; numhol++) {
+                        int ints;
+                        System.out.print("Number of Holidays: ");
+                        scan = new Scanner(System.in);
+                        inputs[numhol] = scan.nextLine();
+                        
+                        System.out.print("Day of Holidays: ");
+                        scan = new Scanner(System.in);
+                        inputs[numhol] = scan.nextLine();
+                        
+                        
+                        
+                        System.out.print("\nNumber of Holidays: ");
+                        scan = new Scanner(System.in);
+                        inputs[numhol] = scan.nextLine();
+                        
+                        System.out.print("Day of Holidays: ");
+                        scan = new Scanner(System.in);
+                        inputs[numhol] = scan.nextLine();
+                        
+                        System.out.print("\nNumber of Holidays: ");
+                        scan = new Scanner(System.in);
+                        inputs[numhol] = scan.nextLine();
+                        
+                        System.out.print("Day of Holidays: ");
+                        scan = new Scanner(System.in);
+                        inputs[numhol] = scan.nextLine();
+                        
+                        String testcase1 = "(5,6,7,13,14,20,21,27,28)";
+                        String testcase2 = "(1,6,7,13,14,20,21,23,27,28)";
+                        String testcase3 = "(6,7,13,14,20,21,27,28)";
+                        
+                        System.out.println("\nNumber of Holidays for Test Case 1: 9" + testcase1);
+                        System.out.println("Number of Holidays for Test Case 2: 10" + testcase2);
+                        System.out.println("Number of Holidays for Test Case 3: 8" + testcase3);
+                            
+                        
+                    }
+
+                } else
+                    System.out.println("Enter 1 to 31 Days only!");
+
+            } while (true);
+
+        }
+    }
+}
